@@ -1,0 +1,2 @@
+INSERT INTO votes (id, member_id, user_story_id)
+VALUES ('f7176674-213c-4d27-af02-198b98e42381', 'f7176674-213c-4d27-af02-198b98e42381', 'f7176674-213c-4d27-af02-198b98e42388');
